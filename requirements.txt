@@ -1,4 +1,5 @@
-Flask==2.1.2
-numpy==1.21.6
-opencv_python==4.5.5.64
-tensorflow==2.9.1
+Flask
+numpy
+opencv-python
+Tensorflow
+gunicorn
